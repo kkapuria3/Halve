@@ -1,6 +1,6 @@
 # Site
 title: Karan Kapuria
-description: Stylish, Two-Column Jekyll Theme
+description: If at first you don't succeed; call it version 1.0
 url: https://kkapuria3.github.io
 logo: KK.png                                       # Site logo
 locale: en_US
@@ -31,11 +31,11 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
+github:             kkapuria3
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          kapuriakaran
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
