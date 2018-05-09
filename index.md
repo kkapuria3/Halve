@@ -7,6 +7,3 @@ I am a Bioinformatics Master’s Graduate from [Georgia Tech](http://bioinformat
 
 If you have a question, concern, or just want to say hi, please feel free to reach out using any platform.
 
-*"The best bioinformaticians I know are problem solvers – they start the day not knowing something, and they enjoy finding out (themselves) how to do it. It’s a great skill to have, but for most, it’s not even a skill – it’s a passion, it’s a way of life, it’s a thrill. It’s what these people would do at the weekend (if their families and friends let them)."*
-
--[Mark Borodovsky](https://scholar.google.com/citations?user=ciQ3dn0AAAAJ&hl=en)
