@@ -1,6 +1,5 @@
 ---
-layout: post-list
+layout: post
 title: Resume/CV
-description: "List of posts"
 permalink: /resume.html
 ---
