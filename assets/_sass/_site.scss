@@ -456,7 +456,7 @@ canvas {
     color: lighten($black, 27.8431);
     &:after {
       position: absolute;
-      left: auto;
+      left: 0;
       top: auto;
       -webkit-transform: none;
       -moz-transform: none;
