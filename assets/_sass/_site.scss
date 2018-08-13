@@ -140,30 +140,16 @@ canvas {
 }
 
 .resume-menu-icon {
-    background: #eee;
-    background: -webkit-linear-gradient(top, #ddd 0, #eee 15%, #fff 40%, #fff 70%, #eee 100%);
-    background: -moz-linear-gradient(top, #ddd 0, #eee 15%, #fff 40%, #fff 70%, #eee 100%);
-    background: -o-linear-gradient(top, #ddd 0, #eee 15%, #fff 40%, #fff 70%, #eee 100%);
-    background: -ms-linear-gradient(top, #ddd 0, #eee 15%, #fff 40%, #fff 70%, #eee 100%);
-    background: linear-gradient(top, #ddd 0, #eee 15%, #fff 40%, #fff 70%, #eee 100%);
-    box-shadow:inset rgba(255,255,255,0.8) 0 1px 1px;
- 
-    text-indent:-9999em;
-    border: 1px solid #ccc;
-    display: block;
-    width: 40px;
-    height: 56px;
-    position: relative;
-    margin: 42px auto;
+  position: absolute;
+  top: 30px;
+  right: 160px;
+  width: 20px;
+  height: 25px;
+  border: 2px solid $gray;
+  background: $white;
   
   &:before {
-    content: '';
-    width: 20px;
-    height: 25px;
-    position: absolute;
-    right: 2px;
-    border: 2px solid $gray;
-    top: 2px;
+
     background: $white;
     background: -webkit-linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
     background: -moz-linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
@@ -180,13 +166,7 @@ canvas {
     
   }
   &:after {
-    content: '';
-    width: 20px;
-    height: 25px;
-    border: 2px solid $gray;
-    position: absolute;
-    right: 6px;
-    top: 6px;
+
     background: $white;
     background: -webkit-linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
     background: -moz-linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
