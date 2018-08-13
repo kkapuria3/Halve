@@ -156,6 +156,19 @@ canvas {
     border: 2px solid $gray;
     top: 2px;
     background: $white;
+    background: -webkit-linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
+    background: -moz-linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
+    background: -o-linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
+    background: -ms-linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
+    background: linear-gradient(45deg, #fff 0, #eee 50%, #ccc 100%);
+ 
+    -webkit-box-shadow: rgba(0,0,0,0.05) -1px 1px 1px, inset white 0 0 1px;
+    -moz-box-shadow: rgba(0,0,0,0.05) -1px 1px 1px, inset white 0 0 1px;
+    box-shadow: rgba(0,0,0,0.05) -1px 1px 1px, inset white 0 0 1px;
+ 
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    
   }
   &:after {
     content: '';
@@ -166,6 +179,13 @@ canvas {
     right: 6px;
     top: 6px;
     background: $white;
+    background: -webkit-linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
+    background: -moz-linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
+    background: -o-linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
+    background: -ms-linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
+    background:linear-gradient(top, #ccc 0, #ccc 20%, #fff 20%, #fff 40%, #ccc 40%, #ccc 60%, #fff 60%, #fff 80%, #ccc 80%, #ccc 100%);
+
+    
   }
   &:hover {
     border-color: $green;
