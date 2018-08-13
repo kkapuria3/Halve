@@ -3,9 +3,9 @@
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: Moon Jekyll Theme
+- title: Machine Learning in Cystic Firbosis Lung 
   url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+  image: https://www.electronicdesign.com/sites/electronicdesign.com/files/styles/article_featured_standard/public/Lung.jpg
   completed: true
 
 - title: Ramme Jekyll Theme
