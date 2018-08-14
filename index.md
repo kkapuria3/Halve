@@ -1,9 +1,17 @@
 ---
 layout: home
 ---
-![GitHub Logo](/images/small-dp.png)
+#About Me
 
-I am a Bioinformatics Master’s Graduate from [Georgia Tech](http://bioinformatics.gatech.edu/), in the field over 5 years with comprehensive background in human and microbial genomics. I currently work as Bioinformatics Developer for [MNG Laboratories](https://mnglabs.com/). Unrestrictedly , I am profoundly skilled in developing, upgrading and streamlining of bioinformatics workflows/pipelines using open-source technology. I specialize in developing on [Amazon AWS EC2](https://aws.amazon.com/ec2/) infrastructure and accelerating and optimizing production pipelines. 
+I am a chronic problem-solver and a lifelong learner. I unpack complicated problems in bioinformatics by approaching each with the flexible process and attention it deserves.
 
-If you have a question, concern, or just want to say hi, please feel free to reach out using any platform.
+This means that I work with others to ask questions, define approaches and execute solutions comprising:
+    Strategy
+    Workflow control
+    Information architecture
+    Portability 
+    Interface design
+    Exceptional accuracy and precision
+    Phenomenal cloud parallelization
 
+I’m on LinkedIn and GitHub and always love hearing about new projects at kapuriakaran@gmail.com
