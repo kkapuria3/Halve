@@ -7,8 +7,9 @@ layout: home
 I am a chronic problem-solver and a lifelong learner. I unpack complicated problems in bioinformatics by approaching each with the flexible process and attention it deserves.
 
 This means that I work with others to ask questions, define approaches and execute solutions comprising:
-    ...Strategy
-    ...Workflow control
+
+1.  Strategy
+2.  Workflow control
     ...Information architecture
     ...Portability 
     ...Interface design
