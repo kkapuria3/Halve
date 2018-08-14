@@ -4,22 +4,10 @@ layout: home
 
 # About Me
 
-I am a chronic problem-solver and a lifelong learner. I unpack complicated problems in bioinformatics by approaching each with the flexible process and attention it deserves.
+Armed with two master’s degrees in Bioinformatics and Computational Biology with years of experience researching, designing, and building complex and scalable tools, I am a chronic problem-solver and a lifelong learner. I unpack complicated problems in bioinformatics by approaching each with the flexible process and attention it deserves.
 
-This means that I work with others to ask questions, define approaches and execute solutions comprising:
+Take some snippet. Move it around, play with it, absorb & synthesize. Add structure, reinforcing the good parts and ripping out the bad bits. Patch up the holes that are left. Give it grace and elegance. Make it for an community, shaped so that they can understand it, the way you understand it.
 
-Strategy
+That's designing. That's developing. That's DevOps. The same frame of action.
 
-Workflow control
-
-Information architecture
-
-Portability 
-
-Interface design
-
-Exceptional accuracy and precision
-
-Phenomenal cloud parallelization
-
-I’m on LinkedIn and GitHub and always love hearing about new projects at kapuriakaran@gmail.com
+I am privileged to be able to express myself and work hard to help others do the same.
