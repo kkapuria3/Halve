@@ -10,10 +10,10 @@ This means that I work with others to ask questions, define approaches and execu
 
 1.  Strategy
 2.  Workflow control
-    ...Information architecture
-    ...Portability 
-    ...Interface design
-    ...Exceptional accuracy and precision
-    ...Phenomenal cloud parallelization
+3.  Information architecture
+4.  Portability 
+5.  Interface design
+6.  Exceptional accuracy and precision
+7.  Phenomenal cloud parallelization
 
 I’m on LinkedIn and GitHub and always love hearing about new projects at kapuriakaran@gmail.com
