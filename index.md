@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![GitHub Logo](/images/dp.jpg)
+![GitHub Logo](/images/small-dp.png)
 
 
 # About Me
