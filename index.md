@@ -11,3 +11,5 @@ Take some snippet. Move it around, play with it, absorb & synthesize. Add struct
 That's designing. That's developing. That's DevOps. The same frame of action.
 
 I am privileged to be able to express myself and work hard to help others do the same.
+
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
