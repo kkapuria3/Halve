@@ -14,4 +14,4 @@ I am privileged to be able to express myself and work hard to help others do the
 
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts") 
 
-[![JavaScript Style Guide: Good Parts]("https://sourcerer.io/kkapuria3"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer">)]
+<a href="https://sourcerer.io/kkapuria3"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
